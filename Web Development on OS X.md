@@ -55,6 +55,11 @@ Git GUI with nice history viewer
 
 URL: http://gitx.frim.nl/
 
+## Homebrew
+The package manager for all kind of Unix software for OS X
+
+URL: http://brew.sh/
+
 ## HTTP Client
 
 URL: http://ditchnet.org/httpclient/
