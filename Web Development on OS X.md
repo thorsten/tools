@@ -116,6 +116,10 @@ URL: http://my.smithmicro.com/stuffit-expander-mac.html
 
 URL: http://macromates.com/
 
+## TinkerTool
+
+URL: http://www.bresink.com/osx/TinkerTool-de.html
+
 ## Tunnelblick
 VPN Client
 
