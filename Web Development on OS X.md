@@ -88,6 +88,10 @@ URL: http://www.pixelmator.com/
 
 URL: https://getpocket.com/
 
+## Scenery App
+
+URL: https://www.getscenery.com/
+
 ## Sequel Pro
 
 URL: http://www.sequelpro.com/
