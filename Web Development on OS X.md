@@ -30,6 +30,10 @@
 
   URL: https://www.apple.com/safari/
 
+## Boot2Docker
+
+URL: http://boot2docker.io/
+
 ## CodeRunner 
 Simple UI to test code snippets in various programming languages
 
