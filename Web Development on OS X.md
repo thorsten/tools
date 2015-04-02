@@ -124,10 +124,9 @@ URL: http://macromates.com/
 
 URL: http://www.bresink.com/osx/TinkerTool-de.html
 
-## Tunnelblick
-VPN Client
+## Vagrant
 
-URL: https://code.google.com/p/tunnelblick/
+URL: https://www.vagrantup.com/
 
 ## Vagrant Manager
 GUI to manage Vagrant boxes in the OS X bar
