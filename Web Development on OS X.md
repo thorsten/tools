@@ -68,6 +68,12 @@ URL: http://brew.sh/
 
 URL: http://ditchnet.org/httpclient/
 
+## iA Writer
+
+Markdown Editor
+
+URL: https://ia.net/writer/mac/
+
 ## Icon Slate
 
 URL: http://www.kodlian.com/apps/icon-slate
