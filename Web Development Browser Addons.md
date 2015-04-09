@@ -1,6 +1,6 @@
 # Browser Addons
 
-## Chrome
+## Google Chrome
 
 * [MeasureIt](https://chrome.google.com/webstore/detail/measureit/pokhcahijjfkdccinalifdifljglhclm)
 * [Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij)
@@ -13,10 +13,11 @@
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
 * [YSlow](https://chrome.google.com/webstore/detail/ninejjcohidippngpapiilnmkgllmakh)
 
-## Firefox
+## Mozilla Firefox
 
 * [Firebug](http://getfirebug.com/)
 * [LiveReload](http://livereload.com/)
 * [Greasemonkey](https://addons.mozilla.org/de/firefox/addon/greasemonkey/)
 * [User Agent Switcher](https://addons.mozilla.org/de/firefox/addon/user-agent-switcher/)
 * [Web Developer](https://addons.mozilla.org/de/firefox/addon/web-developer/)
+* [YSlow](https://addons.mozilla.org/de/firefox/addon/yslow/)
