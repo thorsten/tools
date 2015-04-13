@@ -54,6 +54,11 @@ f.lux fixes this: it makes the color of your computer's display adapt to the tim
 
 URL: https://justgetflux.com/
 
+## Ghostlab
+"Kick-ass synchronized website development"
+
+URL: http://vanamco.com/ghostlab/
+
 ## GitX 
 Git GUI with nice history viewer
 
