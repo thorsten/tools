@@ -87,6 +87,12 @@ URL: http://www.kodlian.com/apps/icon-slate
 
 URL: https://developer.apple.com/l
 
+## Kitematic
+
+"The easiest way to use Docker on your Mac."
+
+URL: https://kitematic.com/
+
 ## MySQL Workbench
 
 URL: http://www.mysql.de/products/workbench/
