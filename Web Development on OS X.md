@@ -64,6 +64,11 @@ Git GUI with nice history viewer
 
 URL: http://gitx.frim.nl/
 
+## Helium
+Floating Browser for OS X
+
+URL: http://heliumfloats.com/
+
 ## Homebrew
 The package manager for all kind of Unix software for OS X
 
