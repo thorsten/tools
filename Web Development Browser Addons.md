@@ -12,6 +12,7 @@
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
 * [YSlow](https://chrome.google.com/webstore/detail/ninejjcohidippngpapiilnmkgllmakh)
+* [User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf)
 
 ## Mozilla Firefox
 
