@@ -13,6 +13,7 @@
 * [Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp)
 * [YSlow](https://chrome.google.com/webstore/detail/ninejjcohidippngpapiilnmkgllmakh)
 * [User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf)
+* [CSS Dig](https://chrome.google.com/webstore/detail/css-dig/lpnhmlhomomelfkcjnkcacofhmggjmco)
 
 ## Mozilla Firefox
 
