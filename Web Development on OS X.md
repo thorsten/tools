@@ -164,6 +164,11 @@ I'm using VirtualBox with Vagrant
 
 URL: https://www.virtualbox.org/
 
+## VirtualHostX
+Create virtual hosts on OS X
+
+URL: https://clickontyler.com/virtualhostx/
+
 ## VMWare Fusion
 I'm using VMWare Fusion with Windows VMs.
 
