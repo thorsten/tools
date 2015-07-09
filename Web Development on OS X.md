@@ -102,6 +102,12 @@ URL: https://kitematic.com/
 
 URL: http://www.mysql.de/products/workbench/
 
+## Paw
+
+An awesome REST client for OS X
+
+URL: https://luckymarmot.com/paw
+
 ## PhpStorm
 
 URL: https://www.jetbrains.com/phpstorm/
