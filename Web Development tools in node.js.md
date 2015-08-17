@@ -1,9 +1,61 @@
 # node.js based Web Develeopment tools
 
-* Bower: ````$ npm install --global bower````
+## Bower
+````$ npm install --global bower````
 
-* Grunt: ````$ npm install --global grunt-cli````
+## BrowserSync
+````$ npm install --global browser-sync````
 
-* Gulp: ````$ npm install --global gulp````
+## caniuse
+````$ npm install --global caniuse-cmd````
 
-* Speed Test: ````$ npm install --global speed-test````
+## CoffeeScript
+````$ npm install --global coffee-script````
+
+## Apache Cordova
+````$ npm install --global cordova````
+
+## ESLint
+````$ npm install --global eslint````
+
+## Yeoman Generator for AngularJS
+````$ npm install --global generator-angular````
+
+## JHipster
+````$ npm install --global generator-jhipster````
+
+## Grunt
+````$ npm install --global grunt-cli````
+
+## Gulp
+````$ npm install --global gulp````
+
+## HarpJS
+````$ npm install --global harp````
+
+## Ionic
+````$ npm install --global ionic````
+
+## JSHint
+````$ npm install --global jshint````
+
+## Karma
+````$ npm install --global karma````
+
+## LESS
+````$ npm install --global less````
+
+## NightwatchJS
+````$ npm install --global nightwatch````
+
+## Phantomas
+````$ npm install --global phantomas````
+
+## SpeedTest
+````$ npm install --global speed-test````
+
+## WebPack
+````$ npm install --global webpack````
+
+## Yeoman
+````$ npm install --global yo````
