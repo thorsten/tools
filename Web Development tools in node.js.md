@@ -21,6 +21,9 @@
 ## Yeoman Generator for AngularJS
 ````$ npm install --global generator-angular````
 
+## JSON Server
+````$ npm install --global json-server````
+
 ## JHipster
 ````$ npm install --global generator-jhipster````
 
