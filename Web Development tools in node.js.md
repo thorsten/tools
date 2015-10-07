@@ -1,5 +1,8 @@
 # node.js based Web Develeopment tools
 
+## Babel
+````$ npm install --global babel babel-core````
+
 ## Bower
 ````$ npm install --global bower````
 
@@ -23,6 +26,9 @@
 
 ## JSON Server
 ````$ npm install --global json-server````
+
+## JSPM
+````$ npm install --global jspm````
 
 ## JHipster
 ````$ npm install --global generator-jhipster````
