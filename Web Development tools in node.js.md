@@ -12,9 +12,6 @@
 ## caniuse
 ````$ npm install --global caniuse-cmd````
 
-## CoffeeScript
-````$ npm install --global coffee-script````
-
 ## Apache Cordova
 ````$ npm install --global cordova````
 
