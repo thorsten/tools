@@ -21,6 +21,9 @@
 ## Yeoman Generator for AngularJS
 ````$ npm install --global generator-angular````
 
+## Jasmine
+````$ npm install --global jasmine-core````
+
 ## JSON Server
 ````$ npm install --global json-server````
 
