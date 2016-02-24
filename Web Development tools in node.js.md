@@ -60,6 +60,9 @@
 ## Phantomas
 ````$ npm install --global phantomas````
 
+## Plato 
+````$ npm install --global plato````
+
 ## SpeedTest
 ````$ npm install --global speed-test````
 
