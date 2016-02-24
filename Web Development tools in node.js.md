@@ -1,4 +1,4 @@
-# node.js based Web Develeopment tools
+# node.js based Web Development tools
 
 ## Babel
 ````$ npm install --global babel babel-core````
