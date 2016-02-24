@@ -1,27 +1,43 @@
 # JavaScript Tools for Web Development
 
 ## Babel
+ES2015 to ES5 Transpiler
+
 ````$ npm install --global babel babel-core````
 
 ## Bower
+Simple package manager for the web
+
 ````$ npm install --global bower````
 
 ## BrowserSync
+Time-saving synchronised browser testing
+
 ````$ npm install --global browser-sync````
 
 ## caniuse
+caniuse.com CLI tool
+
 ````$ npm install --global caniuse-cmd````
 
 ## Apache Cordova
+Mobile apps with HTML, CSS & JS
+
 ````$ npm install --global cordova````
 
 ## ESLint
+Pluggable linting utility for JavaScript and JSX
+
 ````$ npm install --global eslint````
 
 ## Yeoman Generator for AngularJS
+Yeoman Generator for AngularJS
+
 ````$ npm install --global generator-angular````
 
 ## Jasmine
+Behavior-Driven JavaScript testing framework
+
 ````$ npm install --global jasmine-core````
 
 ## JSON Server
