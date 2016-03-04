@@ -28,7 +28,7 @@ Mobile apps with HTML, CSS & JS
 ## ESLint
 Pluggable linting utility for JavaScript and JSX
 
-````$ npm install --global eslint````
+````$ npm install eslint --save-dev````
 
 ## Yeoman Generator for AngularJS
 Yeoman Generator for AngularJS
@@ -38,13 +38,13 @@ Yeoman Generator for AngularJS
 ## Jasmine
 Behavior-Driven JavaScript testing framework
 
-````$ npm install --global jasmine-core````
+````$ npm install jasmine --save-dev````
 
 ## JSON Server
 ````$ npm install --global json-server````
 
 ## JSPM
-````$ npm install --global jspm````
+````$ npm install jspm --save-dev````
 
 ## JHipster
 ````$ npm install --global generator-jhipster````
@@ -62,7 +62,7 @@ Behavior-Driven JavaScript testing framework
 ````$ npm install --global ionic````
 
 ## JSHint
-````$ npm install --global jshint````
+````$ npm install jshint --save-dev````
 
 ## Karma
 ````$ npm install --global karma````
