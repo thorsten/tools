@@ -14,6 +14,7 @@
 * [YSlow](https://chrome.google.com/webstore/detail/ninejjcohidippngpapiilnmkgllmakh)
 * [User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf)
 * [CSS Dig](https://chrome.google.com/webstore/detail/css-dig/lpnhmlhomomelfkcjnkcacofhmggjmco)
+* [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
 
 ## Mozilla Firefox
 
