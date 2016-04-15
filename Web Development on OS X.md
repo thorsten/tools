@@ -82,12 +82,6 @@ URL: http://brew.sh/
 
 URL: http://ditchnet.org/httpclient/
 
-## iA Writer
-
-Markdown Editor
-
-URL: https://ia.net/writer/mac/
-
 ## Icon Slate
 
 URL: http://www.kodlian.com/apps/icon-slate
@@ -101,6 +95,12 @@ URL: https://developer.apple.com/l
 "The easiest way to use Docker on your Mac."
 
 URL: https://kitematic.com/
+
+## MacDown
+
+Open Source Markdown Editor
+
+URL: http://macdown.uranusjr.com/
 
 ## MySQL Workbench
 
