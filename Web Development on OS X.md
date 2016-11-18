@@ -63,10 +63,10 @@ URL: https://justgetflux.com/
 
 URL: http://vanamco.com/ghostlab/
 
-## GitX 
+## GitUp 
 Git GUI with nice history viewer
 
-URL: http://gitx.frim.nl/
+URL: http://gitup.co/
 
 ## Helium
 Floating Browser for OS X
@@ -152,10 +152,6 @@ URL: https://www.sqlitepro.com/
 
 URL: http://my.smithmicro.com/stuffit-expander-mac.html
 
-## TextMate
-
-URL: http://macromates.com/
-
 ## TinkerTool
 
 URL: http://www.bresink.com/osx/TinkerTool-de.html
@@ -174,10 +170,9 @@ I'm using VirtualBox with Vagrant
 
 URL: https://www.virtualbox.org/
 
-## VirtualHostX
-Create virtual hosts on OS X
+## Visual Studio Code
 
-URL: https://clickontyler.com/virtualhostx/
+URL: https://code.visualstudio.com/
 
 ## VMWare Fusion
 I'm using VMWare Fusion with Windows VMs.
